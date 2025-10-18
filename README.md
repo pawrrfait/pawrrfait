@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://luuvbite.straw.page/">
-    <img src="https://github.com/user-attachments/assets/3f365fa4-2990-4c7c-a3aa-8c0109c8e598" alt="button1" width="100">
+    <img src="https://github.com/user-attachments/assets/27dd99a1-673f-41f6-ad77-5c1248aa7eb1" alt="button1" width="100">
   </a>　
   <a href="https://rentry.co/luuvbite">
-    <img src="https://github.com/user-attachments/assets/12e124c1-81df-4f57-bb9d-f9afdcd13a25" alt="button2" width="105">
+    <img src="https://github.com/user-attachments/assets/919b0214-cc33-476e-92c8-476141a0db2f" alt="button2" width="100">
   </a>　
   <a href="https://luuvbite.atabook.org/">
-    <img src="https://github.com/user-attachments/assets/0ff1e6e2-f6cf-429f-ab74-b9a9625155f0" alt="button3" width="100">
+    <img src="https://github.com/user-attachments/assets/e8a22a01-b187-4c74-b1e4-4a23a43ede55" alt="button3" width="100">
   </a>　　
  
   <a href="https://github.com/kittinan/spotify-github-profile">
