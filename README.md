@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://luuvbite.straw.page/">
+  <a href="https://luuvbite.atabook.org/">
     <img src="https://github.com/user-attachments/assets/27dd99a1-673f-41f6-ad77-5c1248aa7eb1" alt="button1" width="100">
   </a>　
   <a href="https://rentry.co/luuvbite">
     <img src="https://github.com/user-attachments/assets/919b0214-cc33-476e-92c8-476141a0db2f" alt="button2" width="100">
   </a>　
-  <a href="https://luuvbite.atabook.org/">
+  <a href="https://luuvbite.straw.page/">
     <img src="https://github.com/user-attachments/assets/e8a22a01-b187-4c74-b1e4-4a23a43ede55" alt="button3" width="100">
   </a>　　
  
