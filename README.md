@@ -23,5 +23,5 @@ work in pawgwess !!
 </p>
 
 <p align="center">
-<img width="720" height="700" alt="image" src="https://files.catbox.moe/jo87me.png" />
+<img width="720" height="700" alt="image" src="https://files.catbox.moe/bczgzv.gif" />
 </p>
