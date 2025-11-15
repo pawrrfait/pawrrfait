@@ -8,7 +8,7 @@
 <p align="center">　　
  <img width="200" height="200" alt="image" src="https://files.catbox.moe/h6nxv7.gif" />
  
- <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=f8a8ba&label=orders!" alt="profile view counter">
+ <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=f8a8ba&label=♡" alt="profile view counter">
 </p>
 
 <p align="center">
