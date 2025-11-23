@@ -25,8 +25,8 @@
   <a href="https://rentry.co/philophillia">
     <img src="https://files.catbox.moe/xhpgio.png"width="110"/>
   </a>⠀
-  <a href="https://rentry.co/luuvbite">
-    <img src="https://files.catbox.moe/sicyqb.png"width="110"/>
+  <a href="https://guns.lol/philophillia">
+    <img src="https://files.catbox.moe/nmszs2.png"width="110"/>
   </a>⠀
   <a href="https://luuvbite.straw.page/">
     <img src="https://files.catbox.moe/e7zrqb.png"width="110"/>
