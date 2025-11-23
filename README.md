@@ -6,7 +6,7 @@
 
 
 <p align="center">　　
- <img width="200" height="200" alt="image" src="https://files.catbox.moe/h6nxv7.gif" />⠀⠀⠀
+ <img width="200" height="200" alt="image" src="https://files.catbox.moe/h6nxv7.gif"/>⠀⠀⠀
  
  <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=f8a8ba&label=♡" alt="profile view counter">
 </p>
@@ -21,13 +21,13 @@
 <p align="center">
   <a href="https://luuvbite.atabook.org/">
     <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
-  </a>
+  </a>⠀
   <a href="https://rentry.co/philophillia">
     <img src="https://files.catbox.moe/xhpgio.png"width="110"/>
-  </a>
+  </a>⠀
   <a href="https://rentry.co/luuvbite">
     <img src="https://files.catbox.moe/sicyqb.png"width="110"/>
-  </a>
+  </a>⠀
   <a href="https://luuvbite.straw.page/">
     <img src="https://files.catbox.moe/e7zrqb.png"width="110"/>
   </a>
