@@ -1,20 +1,6 @@
 <p align="center">
-<img width="720" height="500" alt="image" src="https://files.catbox.moe/5cows5.png"
+<img width="570" height="500" alt="image" src="https://files.catbox.moe/5cows5.png"
 </p>
-
-
-<p align="center">　　
- <img width="200" height="200" alt="image" src="https://files.catbox.moe/h6nxv7.gif"/>⠀⠀⠀
- 
- <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=f8a8ba&label=♡" alt="profile view counter">
-</p>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=false&theme=novatorem&show_offline=true&background_color=f9f5d9&interchange=false&profanity=false&bar_color=f8a8ba&bar_color_cover=false">
-
- <img width="100" height="100" alt="image" src="https://files.catbox.moe/nwkpal.png" />
-</p>　
 
 <p align="center">
   <a href="https://nekopawlitan.atabook.org/">
@@ -34,6 +20,19 @@
   </a>
 </p>
 
+<p align="center">　　
+ <img width="200" height="200" alt="image" src="https://files.catbox.moe/h6nxv7.gif"/>⠀⠀⠀
+ 
+ <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=f8a8ba&label=♡" alt="profile view counter">
+</p>
+
 <p align="center">
-  <img width="544" height="498" alt="image" src="https://github.com/user-attachments/assets/3f52771b-6f82-4a14-ab37-75312c3fbfad"/>⠀
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=false&theme=novatorem&show_offline=true&background_color=f9f5d9&interchange=false&profanity=false&bar_color=f8a8ba&bar_color_cover=false">
+
+ <img width="100" height="100" alt="image" src="https://files.catbox.moe/nwkpal.png" />
+</p>　
+
+<p align="center">
+  <img width="570" height="498" alt="image" src="https://github.com/user-attachments/assets/ccd73640-5a9d-43e9-a1d4-3f25dc705a4c"/>⠀
 </p>
