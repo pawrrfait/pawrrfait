@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- $${\color{#fca8c9}ayesha⠀erotica's⠀46th⠀top⠀listener⠀global⠀2025}$$
+ $${\color{#fca8c9}ayesha⠀erotica's⠀46th⠀top⠀listener⠀global⠀2025⠀!!}$$
 </p>
 
 <p align="center">　　
