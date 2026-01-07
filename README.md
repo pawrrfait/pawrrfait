@@ -6,8 +6,8 @@
   <a href="https://pawrrfait.atabook.org/">
     <img src="https://files.catbox.moe/gdogyc.png"width="90"/>
   </a>⠀
-  <a href="https://rentry.co/pawrrfait">
-    <img src="https://files.catbox.moe/m3nzt6.png"width="90"/>
+  <a href="https://listography.com/pawrrfait">
+    <img src="https://files.catbox.moe/98h8fg.png"width="90"/>
   </a>⠀
   <a href="https://pawrrfaitbyi.straw.page">
     <img src="https://files.catbox.moe/2ivs6q.png"width="90"/>
