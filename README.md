@@ -25,7 +25,7 @@
 </p>
 
 <p>
-　　　　　　　　　　　　<a href="https://pawrrfait.carrd.co/">
+　　　　　　　　　<a href="https://pawrrfait.carrd.co/">
     <img src="https://files.catbox.moe/sp1byj.png"width="100"/>
   </a>⠀
   <a href="https://en.pronouns.page/@pawrrfait">
