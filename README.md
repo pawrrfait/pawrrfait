@@ -6,16 +6,16 @@
 
 <p align="center">
 　　　　　　　　　　　　　　　　　　　　　　　　<a href="https://pawrrfaitbyi.straw.page">
-    <img src="https://files.catbox.moe/rlc0lc.png"width="100"/>
+    <img src="https://files.catbox.moe/rlc0lc.png"width="60"/>
   </a>⠀
   <a href="https://pawrrfait.atabook.org/">
-    <img src="https://files.catbox.moe/c03mx1.png"width="100"/>
+    <img src="https://files.catbox.moe/c03mx1.png"width="60"/>
   </a>⠀
   <a href="https://pawrrfaitbyi.straw.page">
-    <img src="https://files.catbox.moe/sy65ne.png"width="100"/>
+    <img src="https://files.catbox.moe/sy65ne.png"width="60"/>
   </a>⠀
   <a href="https://rentry.co/pawrrfait">
-    <img src="https://files.catbox.moe/z1e8zs.png"width="100"/>
+    <img src="https://files.catbox.moe/z1e8zs.png"width="60"/>
   </a>
 </p>
 
@@ -25,17 +25,17 @@
 </p>
 
 <p>
-　　　　　　　　　<a href="https://pawrrfait.carrd.co/">
-    <img src="https://files.catbox.moe/sp1byj.png"width="100"/>
+　　　　　　　<a href="https://pawrrfait.carrd.co/">
+    <img src="https://files.catbox.moe/sp1byj.png"width="60"/>
   </a>⠀
   <a href="https://en.pronouns.page/@pawrrfait">
-    <img src="https://files.catbox.moe/rq1uhi.png"width="100"/>
+    <img src="https://files.catbox.moe/rq1uhi.png"width="60"/>
   </a>⠀
   <a href="https://guns.lol/pawrrfait">
-    <img src="https://files.catbox.moe/2hxa33.png"width="100"/>
+    <img src="https://files.catbox.moe/2hxa33.png"width="60"/>
   </a>⠀
   <a href="https://listography.com/0633921467">
-    <img src="https://files.catbox.moe/ekw55s.png"width="100"/>
+    <img src="https://files.catbox.moe/ekw55s.png"width="60"/>
   </a>
 </p>
 
