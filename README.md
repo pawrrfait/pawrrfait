@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">　　
- <img width="317" height="563" alt="image" src="https://files.catbox.moe/zctnl7.png"/>⠀⠀
+ <img width="317" height="563" alt="image" src="https://files.catbox.moe/egk0a0.png"/>⠀⠀
  <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=fca8c9&label=୨୧" alt="profile view counter">
 </p>
 
