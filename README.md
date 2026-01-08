@@ -2,7 +2,6 @@
 　　　　　<img width="400" height="300" alt="image" src="https://files.catbox.moe/d4i7wu.png" />　　　　　　　　　　<img width="100" height="100" alt="image" src="https://files.catbox.moe/dn53vr.png"/>
 </p>
 
-<img width="400" height="20" alt="image" src="https://files.catbox.moe/zauj8r.png" />
 
 <p align="center">
 　　　　　　　　　　　　　　　　　　　　 <a href="https://pawrrfaitbyi.straw.page">
@@ -39,7 +38,6 @@
   </a>
 </p>
 
-<img width="400" height="20" alt="image" src="https://files.catbox.moe/zauj8r.png" />
 
 <p align="center">
  　　　　 <img width="95" height="95" alt="image" src="https://files.catbox.moe/7una0a.png"/>　　　　　　　　　　　　　<a href="https://github.com/kittinan/spotify-github-profile">
