@@ -9,13 +9,13 @@
     <img src="https://files.catbox.moe/74zvjt.png"width="90"/>
   </a> 
   <a href="https://pawrrfait.atabook.org/">
-    <img src="https://files.catbox.moe/0t4ysq.png"width="90"/>
+    <img src="https://files.catbox.moe/o9fydd.png"width="90"/>
   </a> 
   <a href="https://luuvbite.straw.page/">
     <img src="https://files.catbox.moe/h5ns4v.png"width="90"/>
   </a> 
   <a href="https://rentry.co/pawrrfait">
-    <img src="https://files.catbox.moe/m8kas1.png"width="90"/>
+    <img src="https://files.catbox.moe/d4q8ha.png"width="90"/>
   </a>
 </p>
 
@@ -26,13 +26,13 @@
 
 <p>
 　　　　　　　　　　　　　 <a href="https://guns.lol/pawrrfait">
-    <img src="https://files.catbox.moe/pj5qqd.png"width="90"/>
+    <img src="https://files.catbox.moe/hsuvec.png"width="90"/>
   </a>
  <a href="https://en.pronouns.page/@pawrrfait/">
     <img src="https://files.catbox.moe/68jp7c.png"width="90"/>
  </a>
  <a href="https://pawrrfait.carrd.co/">
-    <img src="https://files.catbox.moe/cdgxxm.png"width="90"/>
+    <img src="https://files.catbox.moe/w9vl3x.png"width="90"/>
  </a>
   <a href="https://listography.com/0633921467">
     <img src="https://files.catbox.moe/qf6uek.png"width="90"/>
