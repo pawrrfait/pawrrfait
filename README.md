@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-♡ 　i want so badly your message come through ! 　　 ᜊ𐔌๑ ´  ˔  ` ꒱੭
+♡ 　i want so badly your message come through ! 　　 ( ´ㅅ` Ｕ)ﾉｼ
 </p>
