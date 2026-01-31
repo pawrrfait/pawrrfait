@@ -15,7 +15,7 @@
     </tr>
   </table>
 
-  <img src="https://files.catbox.moe/n1wd4b.png" width="390" alt="senbonzakura!">
+  <img src="https://files.catbox.moe/n1wd4b.png" width="392" alt="senbonzakura!">
 
  <img src="https://komarev.com/ghpvc/?username=luuvbite&style=for-the-badge&color=e24f7c&label=✙" alt="profile view counter"> 　　　　 socials being reworked 　  $${\color{#e20d4a}( ˶°ㅁ°) !!}$$
 
