@@ -9,7 +9,7 @@
     <tr>
       <td>
         <br>
-       　　　𓉸　 　　 $${\color{#af2a4a}kuru-kuru}$$  　🦴　　　 $${\color{#dd5f84}kk}$$  　 $${\color{#af2a4a}kaykay}$$  ﹕<br>
+       　　　𓉸　 　　 $${\color{#af2a4a}kiki}$$  　🦴　　　 $${\color{#dd5f84}ʚ(꒪ˊ꒳ˋ꒪)ɞ}$$  　 $${\color{#af2a4a}hershe}$$  ﹕<br>
          <br>
       </td>
     </tr>
